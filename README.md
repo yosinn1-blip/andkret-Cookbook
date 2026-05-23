@@ -145,7 +145,7 @@ Find the change log with all recent updates here: [SEE UPDATES](sections/10-Upda
 - [Connect](sections/03-AdvancedSkills.md#connect)
   - [REST APIs](sections/03-AdvancedSkills.md#rest-apis)
     - [API Design](sections/03-AdvancedSkills.md#api-design)
-    - [Implemenation Frameworks](sections/03-AdvancedSkills.md#implementation-frameworks)
+    - [Implementation Frameworks](sections/03-AdvancedSkills.md#implementation-frameworks)
     - [Security](sections/03-AdvancedSkills.md#security)
   - [Apache Nifi](sections/03-AdvancedSkills.md#apache-nifi)
   - [Logstash](sections/03-AdvancedSkills.md#logstash)
